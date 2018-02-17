@@ -1,0 +1,55 @@
+.common_bg{
+    background-color: #9FC0FB;
+    margin-top: 15px;
+}
+.header_height{
+    min-height: 100px;
+}
+.item_one{
+    background-color: #CFE1FF;
+}
+.item_two{
+    background-color: #6CA4E2;
+    margin-top: 15px;
+    min-height: 150px;
+}
+.padding_right{
+    padding-right: 0px;
+}
+.brand,.golbal_nav,.tools{
+    min-height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.hero_height{
+    min-height: 150px;
+}
+.HF,.CTA{
+    min-height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.body_height{
+    min-height: 400px;
+}
+.AF, .AL{
+    min-height: 360px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.SF{
+    min-height: 400px;
+    padding-top: 25px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.ST{
+    background-color: #CFE1FF;
+    min-height: 360px;
+    
+    
+}
+.footer_height{
+    min-height: 50px;
+    margin-bottom: 20px;
+}
